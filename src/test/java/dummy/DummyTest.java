@@ -11,4 +11,12 @@ public class DummyTest {
     public void testOne(){
         assertEquals(1,1);
     }
+    @Test
+    public void testTwo(){
+        assertEquals(2,2);
+    }
+    @Test
+    public void testThree(){
+        assertEquals(3,3);
+    }
 }
