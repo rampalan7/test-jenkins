@@ -19,4 +19,8 @@ public class DummyTest {
     public void testThree(){
         assertEquals(3,3);
     }
+    @Test
+    public void testFour(){
+        assertEquals(4,4);
+    }
 }
